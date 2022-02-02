@@ -1,0 +1,24 @@
+{
+  "name": "css-clone-day-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TKShimmm/css-clone-day-7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TKShimmm/css-clone-day-7/issues"
+  },
+  "homepage": "https://github.com/TKShimmm/css-clone-day-7#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
